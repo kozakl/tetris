@@ -1,0 +1,11 @@
+mats/blocks/6.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/7.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/0.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/1.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/2.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/3.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/4.png filter=lfs diff=lfs merge=lfs -text
+mats/blocks/5.png filter=lfs diff=lfs merge=lfs -text
+mats/graphics/Atlas filter=lfs diff=lfs merge=lfs -text
+mats/graphics/Atlas.tps filter=lfs diff=lfs merge=lfs -text
+mats/blocks.psd filter=lfs diff=lfs merge=lfs -text
